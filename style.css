@@ -1,0 +1,73 @@
+.body {
+    background-color: #3e6790;
+}
+.headers{
+    border: 5px solid #3e6790;
+    background-color:#1E90FF ;
+}
+
+.contens{
+    background-color: #B0C4DE;
+    float: left;
+    width: 1000px;
+    margin-left: 100px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 500px;
+    font-family: Helvetica, sans-serif, arial;
+
+    
+    
+}
+
+.navigation{
+    background-color: #B0C4DE;
+    float: left;
+    width: 200px;
+    height: 540px;
+}
+
+.footer{
+
+    border: 5px solid #3e6790;
+    background-color:#1E90FF ;
+    text-align: center;
+    font-style: oblique;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+.namaweb{
+    font-size: 30px;
+    font-style: oblique;
+    margin-left: 130px;
+
+}
+.logo{
+    width: 90px;
+    float: left;
+    margin-left: 10px;
+}
+.kosong {
+    clear: both;
+}
+
+.profil1{
+    float: left;
+    width: 500px;
+}
+
+.tulisan1{
+    padding-left: 550px;
+    font-size: 15px;
+    padding-right: 20px;
+}
+.tulisan2{
+    padding-left: 550px;
+    font-size: 35px;
+    padding-right: 20px;
+    font-family: garamond;
+    font-weight: bold;
+}
